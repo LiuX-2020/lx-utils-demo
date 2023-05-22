@@ -21,7 +21,7 @@ export default {
     },
     {
       file: "lib/bundle.browser.js",
-      format: "umd",
+      format: "es",
       name: formatName,
     },
   ],
